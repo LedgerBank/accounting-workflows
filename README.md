@@ -1,5 +1,11 @@
 # accounting-workflows
 
+## Technology layout and evaluated stack
+
+- [Accounting architecture](docs/ARCHITECTURE.md)
+
+Documentation updated November 5, 2026. This update adds architecture/evaluation documentation; source and runtime migration are separately scoped.
+
 Evidence-based accounting workflow and workpaper designs.
 
 **Status: presentation preview.** This repository contains scope and design documentation. It does not contain a released implementation or a live service.
